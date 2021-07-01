@@ -1,0 +1,36 @@
+.serviceMainTitle{
+    color: #0073E6;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.serviceCard{
+    margin: 5px 5px 5px 5px;
+    height: 22rem;
+    padding: 40px 30px 40px 30px;
+    box-shadow: 0 0  8px 0 rgba(0,115,230,0.2);
+}
+.serviceCard:hover{
+    margin: 5px 5px 5px 5px;
+    height: 22rem;
+    padding: 40px 30px 40px 30px;
+    box-shadow: 0 0  20px 0 rgba(0,115,230,0.4);
+}
+.cardImg{
+    width: 150px;
+
+}
+.serviceName{
+    margin-top: .5rem;
+    font-size: 32px;
+    font-weight: 600;
+}
+.serviceDesc{
+    color: #1e363c;
+    margin-top: 1rem;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 55px;
+}
